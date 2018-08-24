@@ -7,6 +7,6 @@
 <title>2.jsp</title>
 </head>
 <body>
-에베베베베베베에베베벱
+에베베베베베베에베베벱 
 </body>
 </html>
